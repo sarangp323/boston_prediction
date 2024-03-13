@@ -1,0 +1,8 @@
+Django
+djangorestframework
+sklearn
+pandas 
+numpy
+matplotlib
+seaborn
+gunicorn

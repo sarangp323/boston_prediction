@@ -1,0 +1,1 @@
+web: gunicorn Boston_prediction.wsgi
